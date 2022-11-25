@@ -29,7 +29,9 @@ nav{
     flex-wrap: wrap;
 }
 .logo{
-    width: 150px;
+    width: 200px;
+    margin-left: 0%;
+    height: 120px;
 }
 nav ul li{
     display: inline-block;
